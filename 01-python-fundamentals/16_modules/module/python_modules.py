@@ -1,3 +1,6 @@
+# this devloped by developer-d2
+# Creating a module for math operations from math_utils.py file
+
 import math_utils as mautil
 
 # call path : naigation of module``
@@ -5,7 +8,6 @@ import math_utils as mautil
 
 add_mautil = mautil.add(10, 20)
 print(add_mautil)
-
 
 sub_mautil = mautil.subtract(100, 20)
 print(sub_mautil)

@@ -1,5 +1,6 @@
-# Code related to devloper-d1:
+# Code related to developer-d1 writen module for math operations
 # it is the simple mathematical add, sub, and Mul
+# Contains Code (functions, classes, variables) which can import into another file 
 
 # add function:
 def add(a, b):

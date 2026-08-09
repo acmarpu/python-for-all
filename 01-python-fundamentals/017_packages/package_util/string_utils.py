@@ -3,7 +3,6 @@ def uc(s: str):
     print("performing upper case: ")
     return s.upper()
 
-
 # title function:
 def title(s: str):
     print("performing title case: ")

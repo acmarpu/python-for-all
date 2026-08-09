@@ -322,5 +322,5 @@ In function-oriented programming, the program is divided into functions, and dat
 ----------------------------------------------------------------------------------------------
 ##### Python Basics Completed
 
-###### 📖 **Next Topic:** 👉 [Operators](/01-python-fundamentals/02_operators.md)
+👉 📖 **Next Topic:** 👉 [Operators](/01-python-fundamentals/02_operators.md)
 ----------------------------------------------------------------------------------------------

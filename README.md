@@ -16,7 +16,8 @@ The goal of this project is to provide a structured path for learning Python fro
 
 ## Repository Structure
 
-- [Python-Fundamentals](/01-python-fundamentals/)
+- [Python-Basics](/01-python-fundamentals/)
+- [Python-Advanced](Inprogress)
 
 ## Topics Covered
 
